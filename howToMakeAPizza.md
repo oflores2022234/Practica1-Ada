@@ -22,4 +22,17 @@
 3. **Montar**: Precalienta horno a 220°C. Estira masa, añade salsa y queso. Agrega ingredientes opcionales.
 4. **Hornear**: Hornea 15-20 min hasta dorar. Deja enfriar antes de cortar.
 
+### Pasos
+
+1. Preparar la masa.
+2. Dejar reposar.
+3. Hacer la salsa.
+4. Estirar la masa.
+5. Añadir la salsa a la masa.
+6. Colocar el queso rallado.
+7. Colocar los ingredientes.
+8. Hornear
+9. Dejar enfriar.
+10. Servir y disfrutar.
+
 ¡Listo para disfrutar!
