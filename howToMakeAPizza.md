@@ -24,6 +24,7 @@
 
 ### Pasos
 
+0. Lavarse las manos.
 1. Preparar la masa.
 2. Dejar reposar.
 3. Hacer la salsa.
@@ -38,6 +39,12 @@
 
 # Cómo hacer una pizza 🍕
 
+0. Lavarse las manos:
+   - Aplicar un poco de agua
+   - Aplicar jabón
+   - Utilizar técnicas de lavado por un minuto
+   - Quitar el jabón con agua
+   
 1. Preparar la masa:
    - Mezcla 500g de harina, 10g de levadura, 10g de sal y 300ml de agua tibia.
    - Amasa durante unos 10 minutos hasta que la masa esté suave y elástica.
